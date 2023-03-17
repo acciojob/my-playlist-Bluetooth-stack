@@ -34,3 +34,6 @@ body{
 	text-align: left;
 	padding-left: 30px;
 }
+li{
+	list-style-type: none;
+}
